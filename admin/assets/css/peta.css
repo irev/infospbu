@@ -1,0 +1,19 @@
+
+#map {
+  border: 1px solid #DDD; 
+  width:800px;
+  height: 350px;
+  float:left;  
+  margin: 0px 0 0 10px;
+  -webkit-box-shadow: #AAA 0px 0px 15px;
+}
+
+          	#map img { 
+  max-width: none;
+}
+
+#map label { 
+  width: auto; display:inline; 
+} 
+          	
+    

@@ -1,0 +1,26 @@
+{
+   "destination_addresses" : [
+      "Jl. Bagindo Aziz Chan, Koto Pulai, Koto Tangah, Kota Padang, Sumatera Barat 25586, Indonesia"
+   ],
+   "origin_addresses" : [
+      "Jl. Minangkabau No.2, Ps. Manggis, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12970, Indonesia"
+   ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.342 km",
+                  "value" : 1341556
+               },
+               "duration" : {
+                  "text" : "1 hari 4 jam",
+                  "value" : 99244
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
